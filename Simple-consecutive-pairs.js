@@ -9,3 +9,6 @@ Your task will be to return the count of pairs that have consecutive numbers as 
   --the fourth pair is (7,6), also consecutive. Count = 3. 
   --the last digit has no pair, so we ignore.
 */
+
+
+// Solution
