@@ -21,3 +21,5 @@ function pairs(array, count = 0) {
   }
   return count;
 }
+
+// or
