@@ -23,3 +23,6 @@ function pairs(array, count = 0) {
 }
 
 // or
+
+const pairs = ar =>
+  ar.reduce((pre, val, idx) => pre + (++idx % 2 && Math.abs(val - ar[idx]) === 1), 0);
